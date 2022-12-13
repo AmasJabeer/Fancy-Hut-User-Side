@@ -1,0 +1,2 @@
+get payment fake cartd details
+//https://stripe.com/docs/testing#:~:text=When%20testing%20interactively%2C%20use%20a,digits%20for%20American%20Express%20cards).
